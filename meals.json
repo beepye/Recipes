@@ -1,59 +1,58 @@
-{ "meals" : [
-	  {
-	    "name": "BP's Chili",
-	    "has_meat": true,
-	    "description": "The best damn chili made in New England",
-	    "owner": "Brian",
-	    "recipe": "[]",
-	    "thumbnail": ""
-	  },
-	  {
-	    "name": "Pizza & Pasty Dough",
-	    "has_meat": false,
-	    "description": "",
-	    "owner": "Brian",
-	    "recipe": "[]",
-	    "thumbnail": ""
-	  },
-	  {
-	    "name": "BP's Basic Herb Bread",
-	    "has_meat": false,
-	    "description": "",
-	    "owner": "Brian",
-	    "recipe": "[]",
-	    "thumbnail": ""
-	  },
-	  {
-	    "name": "Momma Ronnie's Schnitzel",
-	    "has_meat": true,
-	    "description": "",
-	    "owner": "Ronnie",
-	    "recipe": "[]",
-	    "thumbnail": ""
-	  },
-	  {
-	    "name": "Braised Goose",
-	    "has_meat": true,
-	    "description": "",
-	    "owner": "Brian",
-	    "recipe": "[]",
-	    "thumbnail": ""
-	  },
-	  {
-	    "name": "Braised Beef Ribs",
-	    "has_meat": true,
-	    "description": "",
-	    "owner": "Brian",
-	    "recipe": "[]",
-	    "thumbnail": ""
-	  },
-	  {
-	    "name": "Arugula Salad",
-	    "has_meat": false,
-	    "description": "",
-	    "owner": "Brian",
-	    "recipe": "[]",
-	    "thumbnail": ""
-	  }
-	]
-}
+[
+  {
+    "name": "BP's Chili",
+    "has_meat": true,
+    "description": "The best damn chili made in New England",
+    "owner": "Brian",
+    "recipe": "[]",
+    "thumbnail": ""
+  },
+  {
+    "name": "Pizza & Pasty Dough",
+    "has_meat": false,
+    "description": "",
+    "owner": "Brian",
+    "recipe": "[]",
+    "thumbnail": ""
+  },
+  {
+    "name": "BP's Basic Herb Bread",
+    "has_meat": false,
+    "description": "",
+    "owner": "Brian",
+    "recipe": "[]",
+    "thumbnail": ""
+  },
+  {
+    "name": "Momma Ronnie's Schnitzel",
+    "has_meat": true,
+    "description": "",
+    "owner": "Ronnie",
+    "recipe": "[]",
+    "thumbnail": ""
+  },
+  {
+    "name": "Braised Goose",
+    "has_meat": true,
+    "description": "",
+    "owner": "Brian",
+    "recipe": "[]",
+    "thumbnail": ""
+  },
+  {
+    "name": "Braised Beef Ribs",
+    "has_meat": true,
+    "description": "",
+    "owner": "Brian",
+    "recipe": "[]",
+    "thumbnail": ""
+  },
+  {
+    "name": "Arugula Salad",
+    "has_meat": false,
+    "description": "",
+    "owner": "Brian",
+    "recipe": "[]",
+    "thumbnail": ""
+  }
+]
